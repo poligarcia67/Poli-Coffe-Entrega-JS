@@ -22,7 +22,7 @@ const cargarProductos = (respuesta) => {
     <div class="card-body">
       <h5 class="card-title">${producto.nombre}</h5>
       <p class="card-text">${producto.descripcion}</p>
-      <h3 class="card-text text-slide"> $${producto.precio}</h3>
+      <h3 class="text-slide"> $${producto.precio}</h3>
       <a href="#cart" id="Btn" class="btn btn-primary" onClick="agregarAlCarrito(${indice})">Comprar</a> 
       <div class="detalle">
       <button class="btn2 btn-danger"> Mostrar Detalle</button>
