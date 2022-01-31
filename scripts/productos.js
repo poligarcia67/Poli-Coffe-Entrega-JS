@@ -41,7 +41,7 @@ const cargarProductos = (respuesta) => {
       $(".card-text").fadeOut();
     });
     $(".btn2").click(function(){
-      $(".pcard-text").fadeIn();
+      $(".card-text").fadeIn();
     });
   }); 
   
