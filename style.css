@@ -1,0 +1,139 @@
+body {
+    background-color: black;
+}
+
+.Title {
+
+    text-align: center;
+    color: #FFF !important
+}
+.carousel{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-slide{
+    color:black;
+    font-weight: bold;
+}
+.detalle{
+    margin: 10px;
+    text-align: center;
+}
+label{
+    margin: 3px !important;
+}
+.carrito {
+    position: relative !important;
+    bottom: 2px !important;
+    background-color: #FFF !important;
+    align-items: flex-end !important;
+}
+.total-carrito{
+    text-align: center !important;
+    margin-top: 10px !important;
+}
+
+.contador {
+    z-index: 1 !important;
+    position: relative !important;
+    left: 415px !important;
+    bottom: 15px !important;
+}
+
+.card {
+    margin: 10px !important;
+
+}
+.finalizar{
+    margin-top: 10px !important;
+    background-color: rgb(59, 167, 59) !important;
+}
+
+.formulario{
+    background-color: rgb(59, 167, 59) !important; 
+}
+
+
+.elim-Producto{
+margin: 10px !important;
+text-align:end !important;
+}
+.card-img-top {
+    margin-top: 10px !important;
+}
+
+.cardsgeneral {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contador{
+    text-align: center;
+    width: 20px;
+    border-radius: 25px;
+    background-color: rgb(226, 99, 99);
+}
+.img-Carrito{
+    width: 30% !important;
+}
+.modal-body{
+    text-align: center !important;
+}
+
+.contact__secction__item{
+    text-align: center !important;
+    margin: 5px !important;
+
+}
+
+.contact-button{
+    margin: 10px !important;
+}
+
+
+
+.cfin{
+    width: 30%;
+}
+.listp{
+    display: flex;
+}
+.precio{
+    font-weight: bold;
+
+}
+.total{
+    color: #FFF;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color:black;
+    font-weight: bold;
+    text-align: center;
+ 
+}
+.Whatsapp-ico{
+    width: 30px;
+}
+.ico-msj{
+    width: 30px;
+}
+
+.app{
+    background-color: black;
+}
+
+
+.marcafooter {
+    text-align: center;
+    color: #FFF;
+    background-color: #292929;
+    height: auto;
+
+}
+
+footer img {
+    width: 70px;
+}
